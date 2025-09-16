@@ -7,12 +7,13 @@ During my studies I also build several MERN stack projects, which helped me unde
 
 ----
 
-###  🚀 Tech Stack & Tools ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+###  🚀 Tech Stack & Tools 
 
-- Frontend:React,HTML5,CSS,JavaScript (ES6+),Responsive Design                                                                                                       ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-- State Management & UI: Hooks,TailwindCSS,Component-based architecture                                                                        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+- Frontend: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) Responsive Design   
+- State Management & UI: Hooks,Component-based architecture [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 - Version Control: Git, GitHub
 - Testing & API Tools: Postman (CRUD testing)
+- Backend: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 -----
 
