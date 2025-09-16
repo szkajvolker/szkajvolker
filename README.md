@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there, I'm Istvan Szabo 👋
 
-<!--
-**szkajvolker/szkajvolker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Junior Frontend Developer 🎨
 
-Here are some ideas to get you started:
+I am a passionate developer and motivated frontend developer with a string interest in building clean, responsive, and user-friendly web applications.
+During my studies I also build several MERN stack projects, which helped me understand full application flows, CRUD operations, and error handling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+###  🚀 Tech Stack & Tools
+
+- Frontend:React,HTML5,CSS,JavaScript (ES6+),Responsive Design
+- State Management & UI: Hooks,TailwindCSS,Component-based architecture
+- Version Control: Git, GitHub
+- Testing & API Tools: Postman (CRUD testing)
+
+-----
+
+### 📂 Projects (some I built,some during my studies and from tutorials)
+
+- Apple-like website: responsive and minimalistic landing page inspired by Apple
+- Brainwave Clone: interactive landing page project based on a video tutorial
+- Personal Portfolio: showcase my skills and projects as a developer
+- MERN CRUD Apps: small applications focusing on Create/Read/Update/Delete flows with Postman testing and error handling.
+
+----
+
+### 🎯 My Goals
+
+-Grow as a React frontend developer
+-Learn advanced topics: Typescript,Next.js
+-Build real-world projects and collaborate in a team environment
