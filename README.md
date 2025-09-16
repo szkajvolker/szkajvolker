@@ -28,7 +28,6 @@ During my studies I also build several MERN stack projects, which helped me unde
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkajvolker&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=szkajvolker&theme=dark&hide_border=true)
 ----
 
 ### 🎯 My Goals
@@ -36,5 +35,3 @@ During my studies I also build several MERN stack projects, which helped me unde
 -Grow as a React frontend developer
 -Learn advanced topics: Typescript,Next.js
 -Build real-world projects and collaborate in a team environment
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
