@@ -2,7 +2,7 @@ Hi there, I'm Istvan Szabo 👋
 
 ### 💻 Junior Frontend Developer 🎨
 
-I am a passionate developer and motivated frontend developer with a string interest in building clean, responsive, and user-friendly web applications.
+I am a passionate developer and motivated frontend developer with a strong interest in building clean, responsive, and user-friendly web applications.
 During my studies I also build several MERN stack projects, which helped me understand full application flows, CRUD operations, and error handling.
 
 ----
@@ -23,6 +23,9 @@ During my studies I also build several MERN stack projects, which helped me unde
 - Personal Portfolio: showcase my skills and projects as a developer
 - MERN CRUD Apps: small applications focusing on Create/Read/Update/Delete flows with Postman testing and error handling.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkajvolker&layout=compact&theme=radical)
 ----
 
 ### 🎯 My Goals
