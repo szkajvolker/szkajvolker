@@ -14,8 +14,8 @@ During my studies I also build several MERN stack projects, which helped me unde
 - State Management & UI: ![Hooks](https://img.shields.io/badge/Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Component-based](https://img.shields.io/badge/Component--based%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=white)
  [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-- Version Control: Git, GitHub
-- Testing & API Tools: Postman (CRUD testing)
+- Version Control: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Testing & API Tools: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postman CRUD](https://img.shields.io/badge/Postman%20CRUD%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - Backend: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 -----
