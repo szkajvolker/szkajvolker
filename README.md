@@ -22,11 +22,12 @@ During my studies I also build several MERN stack projects, which helped me unde
 
 ### 📂 Projects (some I built,some during my studies and from tutorials)
 
-- Apple-like website: responsive and minimalistic landing page inspired by Apple
-- Brainwave Clone: interactive landing page project based on a video tutorial
+- Apple-like website: responsive and minimalistic landing page inspired by Apple [🔗 Apple-like project](https://demo-site-istvan-001.netlify.app/)
+- Brainwave Clone: interactive landing page project based on a video tutorial [🔗 Brainwave clone](https://szkajvolker.github.io/Brainwave/)
 - Personal Portfolio: showcase my skills and projects as a developer
+- Cocktails website: React project using GSAP for practicing smooth animation. [🔗 Cocktail website](https://szkajvolker.github.io/gsap_cocktails/)
 - MERN CRUD Apps: small applications focusing on Create/Read/Update/Delete flows with Postman testing and error handling.
-- MovieApp: React Responsive Design TMDB API [🔗 Live Demo](https://movie-app-szi-5c29f5.netlify.app/)
+- MovieApp: React Responsive Design TMDB API [🔗 MovieApp](https://movie-app-szi-5c29f5.netlify.app/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=radical)  
 
@@ -34,8 +35,9 @@ During my studies I also build several MERN stack projects, which helped me unde
 
 ----
 
-### 🎯 My Goals
+### 🎯 ![My Goals](https://img.shields.io/badge/My%20Goals-4CAF50?style=for-the-badge&logo=goal&logoColor=white)
 
--Grow as a React frontend developer
--Learn advanced topics: Typescript,Next.js
+-Grow as a React Frontend Developer
+-Learn advanced topics: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 -Build real-world projects and collaborate in a team environment
