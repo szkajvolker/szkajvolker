@@ -26,6 +26,7 @@ During my studies I also build several MERN stack projects, which helped me unde
 - Brainwave Clone: interactive landing page project based on a video tutorial
 - Personal Portfolio: showcase my skills and projects as a developer
 - MERN CRUD Apps: small applications focusing on Create/Read/Update/Delete flows with Postman testing and error handling.
+- MovieApp: React Responsive Design TMDB API [🔗 Live Demo](https://movie-app-szi-5c29f5.netlify.app/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=radical)  
 
