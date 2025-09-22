@@ -24,7 +24,7 @@ During my studies I also build several MERN stack projects, which helped me unde
 
 - Apple-like website: responsive and minimalistic landing page inspired by Apple [🔗 Apple-like project](https://demo-site-istvan-001.netlify.app/)
 - Brainwave Clone: interactive landing page project based on a video tutorial [🔗 Brainwave clone](https://szkajvolker.github.io/Brainwave/)
-- Personal Portfolio: showcase my skills and projects as a developer
+- Personal Portfolio: showcase my skills and projects as a developer [🔗 Portfolio](https://szkajvolker.github.io/portfolio-2.0/)
 - Cocktails website: React project using GSAP for practicing smooth animation. [🔗 Cocktail website](https://szkajvolker.github.io/gsap_cocktails/)
 - MERN CRUD Apps: small applications focusing on Create/Read/Update/Delete flows with Postman testing and error handling.
 - MovieApp: React Responsive Design TMDB API [🔗 MovieApp](https://movie-app-szi-5c29f5.netlify.app/)
