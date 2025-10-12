@@ -28,7 +28,7 @@ During my studies I also build several MERN stack projects, which helped me unde
 - Cocktails website: React project using GSAP for practicing smooth animation. [🔗 Cocktail website](https://szkajvolker.github.io/gsap_cocktails/)
 - MERN CRUD Apps: small applications focusing on Create/Read/Update/Delete flows with Postman testing and error handling.
 - MovieApp: React Responsive Design TMDB API [🔗 MovieApp](https://moviestmdb-database-app.netlify.app/)
-- GamesApp: React + RAWG API | Main Features:Search,Dark mode,filter by genre | Technologies:lazy-loading,Zustand state management,session/local storage for reduce API calls[🔗 MovieApp](https://games-store-db.netlify.app/)
+- GamesApp: React + RAWG API | Main Features:Search,Dark mode,filter by genre | Technologies:lazy-loading,Zustand state management,session/local storage for reduce API calls[🔗 GamesApp](https://games-store-db.netlify.app/)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkajvolker&layout=compact&theme=radical)
