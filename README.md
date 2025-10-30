@@ -5,7 +5,7 @@ Hi there, I'm Istvan Szabo 👋
 I am a passionate and motivated frontend developer from Hungary, with a strong interest in building clean, responsive, and user-friendly web applications.
 During my studies I also build several MERN stack projects, which helped me understand full application flows, CRUD operations, and error handling.
 
-----
+-----
 
 ###  🚀 Tech Stack & Tools 
 
@@ -29,11 +29,13 @@ During my studies I also build several MERN stack projects, which helped me unde
 - MERN CRUD Apps: small applications focusing on Create/Read/Update/Delete flows with Postman testing and error handling.
 - MovieApp: React Responsive Design TMDB API [🔗 MovieApp](https://moviestmdb-database-app.netlify.app/)
 - GamesApp: React + RAWG API | Main Features:Search,Dark mode,filter by genre | Technologies:lazy-loading,Zustand state management,session/local storage for reduce API calls[🔗 GamesApp](https://games-store-db.netlify.app/)
+-----
+### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkajvolker&layout=compact&theme=radical)
 
-----
+-----
 
 ### 🎯 ![My Goals](https://img.shields.io/badge/My%20Goals-4CAF50?style=for-the-badge&logo=goal&logoColor=white)
 
