@@ -11,7 +11,7 @@ During my studies I also build several MERN stack projects, which helped me unde
 
 - Frontend: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-61DAFB?style=for-the-badge&logo=responsive&logoColor=white)
  
-- State Management & UI: ![Hooks](https://img.shields.io/badge/Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- State Management & UI: [![Zustand](https://logo.svgcdn.com/devicon-plain/zustand-plain.png)] ![Hooks](https://img.shields.io/badge/Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Component-based](https://img.shields.io/badge/Component--based%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=white)
  [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 - Version Control: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
