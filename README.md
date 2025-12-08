@@ -1,3 +1,4 @@
+![Logo](images/background.png)
 Hi there, I'm Istvan Szabo 👋
 
 ### 💻 Junior Frontend Developer 🎨
