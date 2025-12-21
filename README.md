@@ -36,7 +36,7 @@ During my studies I also build several MERN stack projects, which helped me unde
 - FullStack Next.Js 16 | Main Features: MongoDB for database storage,Cloudinary,Posthog,Coderabbit,TailwindCSS,TypeScript[Dev_Events](https://devevents-7ay9eoal8-szkajvolkers-projects.vercel.app)
 -----
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=tokyonight)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=szkajvolker&theme=radical)
