@@ -52,3 +52,6 @@ During my studies I also build several MERN stack projects, which helped me unde
 -Learn advanced topics: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 -Build real-world projects and collaborate in a team environment
+![Season](https://img.shields.io/badge/Season-Winter%20❄️-blue)
+![Mood](https://img.shields.io/badge/Mood-Festive%20🎄-green)
+
