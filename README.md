@@ -9,10 +9,7 @@ Checkout my Portfolio here ❯❯ [Link](https://istvan-portfolio.netlify.app/)
 I am a passionate and motivated frontend developer from Hungary, with a strong interest in building clean, responsive, and user-friendly web applications.
 During my studies I also build several MERN stack projects, which helped me understand full application flows, CRUD operations, and error handling.
 
-![Season](https://img.shields.io/badge/Season-Winter%20❄️-blue)
-![Mood](https://img.shields.io/badge/Mood-Festive%20🎄-green)
-
-━━━━━━━━━━━━━━ ❄️ ━━━━━━━━━━━━━━
+━━━━━━━━━━━
 
 ###  🚀 Tech Stack & Tools 
 
@@ -25,7 +22,7 @@ During my studies I also build several MERN stack projects, which helped me unde
 - Testing & API Tools: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postman CRUD](https://img.shields.io/badge/Postman%20CRUD%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - Backend: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-━━━━━━━━━━━━━━ ❄️ ━━━━━━━━━━━━━━
+━━━━━━━━━━━
 
 ### 📂 Projects (some I built,some during my studies and from tutorials)
 
@@ -38,7 +35,7 @@ During my studies I also build several MERN stack projects, which helped me unde
 - GamesApp: React + RAWG API | Main Features:Search,Dark mode,filter by genre | Technologies:lazy-loading,Zustand state management,session/local storage for reduce API calls[🔗 GamesApp](https://games-store-db.netlify.app/)
 - FullStack Next.Js 16 | Main Features: MongoDB for database storage,Cloudinary,Posthog,Coderabbit,TailwindCSS,TypeScript [🔗 Dev_Events](https://devevents-7ay9eoal8-szkajvolkers-projects.vercel.app)
 
-━━━━━━━━━━━━━━ ❄️ ━━━━━━━━━━━━━━
+━━━━━━━━━━━
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=tokyonight)
 
@@ -48,7 +45,7 @@ During my studies I also build several MERN stack projects, which helped me unde
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkajvolker&layout=compact&theme=radical)
 
-━━━━━━━━━━━━━━ ❄️ ━━━━━━━━━━━━━━
+━━━━━━━━━━━
 
 ### 🎯 ![My Goals](https://img.shields.io/badge/My%20Goals-4CAF50?style=for-the-badge&logo=goal&logoColor=white)
 
