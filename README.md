@@ -38,12 +38,14 @@ During my studies I also build several MERN stack projects, which helped me unde
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=tokyonight)
 
+STREAK
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=szkajvolker&theme=radical)
 
-
+TOP languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkajvolker&layout=compact&theme=radical)
-
+CODE practice
+[![Codewars](https://www.codewars.com/users/TE_FELHASZNÁLÓNEVED/badges/large)](https://www.codewars.com/users/szkajvolker)
 ━━━━━━━━━━━
 
 ### 🎯 ![My Goals](https://img.shields.io/badge/My%20Goals-4CAF50?style=for-the-badge&logo=goal&logoColor=white)
