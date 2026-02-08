@@ -52,7 +52,7 @@ They showcase my skills in frontend development, responsive design, and working 
 - **Personal Portfolio**  
   Showcases my skills and projects as a developer.  
   **Tech:** React, Responsive Design  
-  🔗 [View project](Portfolio_old)
+  🔗 [View project](https://szkajvolker.github.io/portfolio-2.0/)
 
 - **Games App**  
   React + RAWG API application with search, dark mode, and genre filtering.  
