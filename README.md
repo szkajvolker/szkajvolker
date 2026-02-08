@@ -88,13 +88,16 @@ They showcase my skills in frontend development, responsive design, and working 
 
 ━━━━━━━━━━━
 ### GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=szkajvolker&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=szkajvolker&theme=radical&cache_seconds=86400)
 
 **TOP languages**
+
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=szkajvolker&layout=compact&theme=radical)
 
 **CODE practice**
+
 [![Codewars](https://www.codewars.com/users/szkajvolker/badges/large)](https://www.codewars.com/users/szkajvolker)
 
 ━━━━━━━━━━━
