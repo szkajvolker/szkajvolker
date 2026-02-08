@@ -6,6 +6,7 @@ I build clean, responsive, and user-friendly web applications with a strong focu
 Through multiple MERN stack projects, I gained hands-on experience with full-stack applications flows, CRUD operations, and error handling.
 
 Checkout my Portfolio here ❯❯ [Link](https://istvan-portfolio.netlify.app/)
+
 ━━━━━━━━━━━
 
 ###  🚀 Tech Stack & Tools 
@@ -36,10 +37,7 @@ Checkout my Portfolio here ❯❯ [Link](https://istvan-portfolio.netlify.app/)
 - **Backend (Basic knowledge):**  
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
   
-
-
 ━━━━━━━━━━━
 
 ### 📁 Projects
@@ -97,6 +95,7 @@ They showcase my skills in frontend development, responsive design, and working 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkajvolker&layout=compact&theme=radical)
 CODE practice
 [![Codewars](https://www.codewars.com/users/szkajvolker/badges/large)](https://www.codewars.com/users/szkajvolker)
+
 ━━━━━━━━━━━
 
 ### 📈 GitHub Activity
