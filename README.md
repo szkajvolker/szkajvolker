@@ -1,56 +1,118 @@
 ![Logo](images/background.png)
 Hi there, I'm Istvan Szabo 👋
+Junior Frontend Developer from Hungary
+
+I build clean, responsive, and user-friendly web applications with a strong focus on modern technologies.
+Through multiple MERN stack projects, I gained hands-on experience with full-stack applications flows, CRUD operations, and error handling.
+
 Checkout my Portfolio here ❯❯ [Link](https://istvan-portfolio.netlify.app/)
-
-
-### 💻 Junior Frontend Developer 🎨
-
-I am a passionate and motivated frontend developer from Hungary, with a strong interest in building clean, responsive, and user-friendly web applications.
-During my studies I also build several MERN stack projects, which helped me understand full application flows, CRUD operations, and error handling.
-
 ━━━━━━━━━━━
 
 ###  🚀 Tech Stack & Tools 
 
-- Frontend: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-61DAFB?style=for-the-badge&logo=responsive&logoColor=white)
- 
-- State Management & UI: ![Zustand](https://img.shields.io/badge/Zustand-61DAFB?style=for-the-badge&logo=zustand&logoColor=green) ![Hooks](https://img.shields.io/badge/Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Component-based](https://img.shields.io/badge/Component--based%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=white)
- [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-- Version Control: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- Testing & API Tools: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postman CRUD](https://img.shields.io/badge/Postman%20CRUD%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- Backend: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- **Frontend:**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Responsive%20Design](https://img.shields.io/badge/Responsive%20Design-61DAFB?style=for-the-badge)
+
+- **State Management & Styling:**  
+  ![Zustand](https://img.shields.io/badge/Zustand-61DAFB?style=for-the-badge)
+  ![React Hooks](https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+- **Architecture & Concepts:**  
+  ![Component-based Architecture](https://img.shields.io/badge/Component--based%20Architecture-0A66C2?style=for-the-badge)
+
+- **Version Control:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- **Testing & API Tools:**  
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![CRUD Testing](https://img.shields.io/badge/CRUD%20Testing-FF6C37?style=for-the-badge)
+
+- **Backend (Basic knowledge):**  
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+  
+
 
 ━━━━━━━━━━━
 
-### 📂 Projects (some I built,some during my studies and from tutorials)
+### 📁 Projects
 
-- Apple-like website: responsive and minimalistic landing page inspired by Apple [🔗 Apple-like project](https://demo-site-istvan-001.netlify.app/)
-- Brainwave Clone: interactive landing page project based on a video tutorial [🔗 Brainwave clone](https://szkajvolker.github.io/Brainwave/)
-- Personal Portfolio: showcase my skills and projects as a developer [🔗 Portfolio](https://szkajvolker.github.io/portfolio-2.0/) old
-- Cocktails website: React project using GSAP for practicing smooth animation. [🔗 Cocktail website](https://szkajvolker.github.io/gsap_cocktails/)
-- MERN CRUD Apps: small applications focusing on Create/Read/Update/Delete flows with Postman testing and error handling.
-- MovieApp: React Responsive Design TMDB API [🔗 MovieApp](https://moviesdatabase-app.netlify.app/)
-- GamesApp: React + RAWG API | Main Features:Search,Dark mode,filter by genre | Technologies:lazy-loading,Zustand state management,session/local storage for reduce API calls[🔗 GamesApp](https://games-store-db.netlify.app/)
-- FullStack Next.Js 16 | Main Features: MongoDB for database storage,Cloudinary,Posthog,Coderabbit,TailwindCSS,TypeScript [🔗 Dev_Events](https://devevents-7ay9eoal8-szkajvolkers-projects.vercel.app)
+Here are some of the projects I built during my studies and personal practice.  
+They showcase my skills in frontend development, responsive design, and working with APIs and full application flows.
+
+#### 🔹 Featured Projects
+
+- **Personal Portfolio**  
+  Showcases my skills and projects as a developer.  
+  **Tech:** React, Responsive Design  
+  🔗 [View project](Portfolio_old)
+
+- **Games App**  
+  React + RAWG API application with search, dark mode, and genre filtering.  
+  Optimized with lazy loading, Zustand state management, and API reuse.  
+  **Tech:** React, Zustand, API integration  
+  🔗 [View project](GamesApp)
+
+- **Movie App**  
+  Responsive movie browsing app using the TMDB API.  
+  **Tech:** React, Responsive Design, REST API  
+  🔗 [View project](MovieApp)
+
+#### 🔹 Practice & Learning Projects
+
+- **Apple-like Landing Page**  
+  Minimalistic, responsive landing page inspired by Apple.  
+  **Tech:** HTML, CSS, Responsive Design  
+  🔗 [View project](Apple-like-project)
+
+- **Brainwave Clone**  
+  Interactive landing page built by following a tutorial.  
+  **Tech:** HTML, CSS, JavaScript  
+  🔗 [View project](Brainwave-clone)
+
+- **Cocktails Website**  
+  React project using GSAP to practice smooth animations.  
+  **Tech:** React, GSAP  
+  🔗 [View project](Cocktail-website)
+
+- **MERN CRUD Apps**  
+  Small applications focusing on Create / Read / Update / Delete flows,  
+  including Postman testing and error handling.  
+  **Tech:** MongoDB, Node.js, Express, Postman
+
 
 ━━━━━━━━━━━
-### Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=szkajvolker&theme=radical&cache_seconds=86400)
 
-STREAK
-
-![GitHub Streak](https://streak-stats.demolab.com?user=szkajvolker&theme=radical)
-
-TOP languages
+**TOP languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkajvolker&layout=compact&theme=radical)
 CODE practice
-[![Codewars](https://www.codewars.com/users/TE_FELHASZNÁLÓNEVED/badges/large)](https://www.codewars.com/users/szkajvolker)
+[![Codewars](https://www.codewars.com/users/szkajvolker/badges/large)](https://www.codewars.com/users/szkajvolker)
 ━━━━━━━━━━━
 
-### 🎯 ![My Goals](https://img.shields.io/badge/My%20Goals-4CAF50?style=for-the-badge&logo=goal&logoColor=white)
+### 📈 GitHub Activity
 
--Grow as a React Frontend Developer
--Learn advanced topics: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- Consistent learning and practice through personal projects
+- Focus on quality over quantity
+- Active use of Git and GitHub in daily development when I have free time.
 
--Build real-world projects and collaborate in a team environment
+### 🎯 My Goals
+
+ **Grow as a React Frontend Developer**  
+  Learning advanced topics such as  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+ **Build real-world projects and collaborate in a team environment**  
+  Improving communication, code quality, and teamwork skills
+
+  🚀 **Open to Junior Frontend Developer opportunities and internships**
