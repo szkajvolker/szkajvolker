@@ -88,7 +88,7 @@ They showcase my skills in frontend development, responsive design, and working 
 
 ━━━━━━━━━━━
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szkajvolker&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com?user=szkajvolker&theme=radical&cache_seconds=86400)
 
 **TOP languages**
