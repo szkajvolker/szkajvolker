@@ -58,29 +58,29 @@ They showcase my skills in frontend development, responsive design, and working 
   React + RAWG API application with search, dark mode, and genre filtering.  
   Optimized with lazy loading, Zustand state management, and API reuse.  
   **Tech:** React, Zustand, API integration  
-  🔗 [View project](GamesApp)
+  🔗 [View project](https://games-store-db.netlify.app/home)
 
 - **Movie App**  
   Responsive movie browsing app using the TMDB API.  
   **Tech:** React, Responsive Design, REST API  
-  🔗 [View project](MovieApp)
+  🔗 [View project](https://moviesdatabase-app.netlify.app/)
 
 #### 🔹 Practice & Learning Projects
 
 - **Apple-like Landing Page**  
   Minimalistic, responsive landing page inspired by Apple.  
   **Tech:** HTML, CSS, Responsive Design  
-  🔗 [View project](Apple-like-project)
+  🔗 [View project](https://macbookshowcaseapp.netlify.app/)
 
 - **Brainwave Clone**  
   Interactive landing page built by following a tutorial.  
   **Tech:** HTML, CSS, JavaScript  
-  🔗 [View project](Brainwave-clone)
+  🔗 [View project](https://brainwavedemosite.netlify.app/)
 
 - **Cocktails Website**  
   React project using GSAP to practice smooth animations.  
   **Tech:** React, GSAP  
-  🔗 [View project](Cocktail-website)
+  🔗 [View project](https://cocktailsitedemo.netlify.app/)
 
 - **MERN CRUD Apps**  
   Small applications focusing on Create / Read / Update / Delete flows,  
