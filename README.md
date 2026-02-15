@@ -48,7 +48,8 @@ They showcase my skills in frontend development, responsive design, and working 
 #### 🔹 Featured Projects
 
 - **Personal Portfolio**  
-  Showcases my skills and projects as a developer.  
+  Showcases my skills and projects as a developer
+  it's an old portfolio so not all my current projects listed here.
   **Tech:** React, Responsive Design  
   🔗 [View project](https://szkajvolker.github.io/portfolio-2.0/)
 
