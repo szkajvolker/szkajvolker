@@ -30,9 +30,11 @@ Checkout my Portfolio here ❯❯ [Link](https://istvan-portfolio.netlify.app/)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- **Testing & API Tools:**  
+- **Testing & API/Optimization Tools:**  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![CRUD Testing](https://img.shields.io/badge/CRUD%20Testing-FF6C37?style=for-the-badge)
+  ![PageSpeed Insights](https://img.shields.io/badge/PageSpeed%20Insights-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+  
 
 - **Backend (Basic knowledge):**  
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
