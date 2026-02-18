@@ -109,7 +109,8 @@ They showcase my skills in frontend development, responsive design, and working 
 
 - Consistent learning and practice through personal projects
 - Focus on quality over quantity
-- Active use of Git and GitHub in daily development when I have free time.
+- Active use of Git and GitHub in daily development.
+- Continuously working on projects (currently GamesApp)
 
 ### 🎯 My Goals
 
