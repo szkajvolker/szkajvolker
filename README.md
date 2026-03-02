@@ -33,7 +33,6 @@ Checkout my Portfolio here ❯❯ [Link](https://istvan-portfolio.netlify.app/)
 - **Testing & API/Optimization Tools:**  
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![CRUD Testing](https://img.shields.io/badge/CRUD%20Testing-FF6C37?style=for-the-badge)
   ![PageSpeed Insights](https://img.shields.io/badge/PageSpeed%20Insights-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
   
 
