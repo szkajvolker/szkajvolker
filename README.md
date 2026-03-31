@@ -52,8 +52,14 @@ They showcase my skills in frontend development, responsive design, and working 
 - **Personal Portfolio**  
   Showcases my skills and projects as a developer
   it's an old portfolio so not all my current projects listed here.
-  **Tech:** React, Responsive Design  
+  **Tech:** React, Responsive Design
   🔗 [View project](https://szkajvolker.github.io/portfolio-2.0/)
+
+- **PCWebShop**
+  PC webshop website with limited features yet. (Under development)
+  This project for me to learn Next.js and strengthen my typescript skills
+  **Tech:** Next.js,Tailwind,MongoDB,Cloudenary
+  🔗 [View project](https://next-js-full-stack-pc-webshop-6pef.vercel.app/)
 
 - **Games App**  
   React + RAWG API application with search, dark mode, and genre filtering.  
