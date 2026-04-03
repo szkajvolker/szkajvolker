@@ -59,7 +59,7 @@ They showcase my skills in frontend development, responsive design, and working 
   PC webshop website with limited features yet. (Under development)
   This project for me to learn Next.js and strengthen my typescript skills
   **Tech:** Next.js,Tailwind,MongoDB,Cloudenary
-  🔗 [View project](https://next-js-full-stack-pc-webshop-6pef.vercel.app/)
+  🔗 [View project](https://next-js-full-stack-pc-webshop.vercel.app/)
 
 - **Games App**  
   React + RAWG API application with search, dark mode, and genre filtering.  
