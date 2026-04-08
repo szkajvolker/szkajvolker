@@ -48,24 +48,17 @@ Here are some of the projects I built during my studies and personal practice.
 They showcase my skills in frontend development, responsive design, and working with APIs and full application flows.
 
 #### 🔹 Featured Projects
-
-- **Personal Portfolio**  
-  Showcases my skills and projects as a developer
-  it's an old portfolio so not all my current projects listed here.
-  **Tech:** React, Responsive Design
-  🔗 [View project](https://szkajvolker.github.io/portfolio-2.0/)
+- **Games App**  
+  React + RAWG API application with search, dark mode, and genre filtering.  
+  Optimized with lazy loading, Zustand state management, and API reuse.  
+  **Tech:** React, Zustand, API integration  
+  🔗 [View project](https://games-store-db.netlify.app/home)
 
 - **PCWebShop**
   PC webshop website with limited features yet. (Under development)
   This project for me to learn Next.js and strengthen my typescript skills
   **Tech:** Next.js,Tailwind,MongoDB,Cloudenary
   🔗 [View project](https://next-js-full-stack-pc-webshop.vercel.app/)
-
-- **Games App**  
-  React + RAWG API application with search, dark mode, and genre filtering.  
-  Optimized with lazy loading, Zustand state management, and API reuse.  
-  **Tech:** React, Zustand, API integration  
-  🔗 [View project](https://games-store-db.netlify.app/home)
 
 - **Movie App**  
   Responsive movie browsing app using the TMDB API.  
@@ -93,6 +86,13 @@ They showcase my skills in frontend development, responsive design, and working 
   Small applications focusing on Create / Read / Update / Delete flows,  
   including Postman testing and error handling.  
   **Tech:** MongoDB, Node.js, Express, Postman
+
+- **AI-Assisted Projects**
+  Nasa AI Landing Page
+  Single-page website created using AI prompting (vibe coding approach).
+  Focused on rapid prototyping and design iteration using AI-generated code.
+  **Tech:** HTML, CSS, (AI-assisted development)
+  🔗 [View project](https://nasa-ai-landing-page.vercel.app/)
 
 
 ━━━━━━━━━━━
