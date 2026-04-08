@@ -51,18 +51,21 @@ They showcase my skills in frontend development, responsive design, and working 
 - **Games App**  
   React + RAWG API application with search, dark mode, and genre filtering.  
   Optimized with lazy loading, Zustand state management, and API reuse.  
-  **Tech:** React, Zustand, API integration  
+  **Tech:** React, Zustand, API integration
+  
   🔗 [View project](https://games-store-db.netlify.app/home)
 
 - **PCWebShop**
   PC webshop website with limited features yet. (Under development)
   This project for me to learn Next.js and strengthen my typescript skills
   **Tech:** Next.js,Tailwind,MongoDB,Cloudenary
+  
   🔗 [View project](https://next-js-full-stack-pc-webshop.vercel.app/)
 
 - **Movie App**  
   Responsive movie browsing app using the TMDB API.  
-  **Tech:** React, Responsive Design, REST API  
+  **Tech:** React, Responsive Design, REST API
+  
   🔗 [View project](https://moviesdatabase-app.netlify.app/)
 
 #### 🔹 Practice & Learning Projects
@@ -79,7 +82,8 @@ They showcase my skills in frontend development, responsive design, and working 
 
 - **Cocktails Website**  
   React project using GSAP to practice smooth animations.  
-  **Tech:** React, GSAP  
+  **Tech:** React, GSAP
+  
   🔗 [View project](https://cocktailsitedemo.netlify.app/)
 
 - **MERN CRUD Apps**  
@@ -92,6 +96,7 @@ They showcase my skills in frontend development, responsive design, and working 
   Single-page website created using AI prompting (vibe coding approach).
   Focused on rapid prototyping and design iteration using AI-generated code.
   **Tech:** HTML, CSS, (AI-assisted development)
+  
   🔗 [View project](https://nasa-ai-landing-page.vercel.app/)
 
 
