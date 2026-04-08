@@ -48,31 +48,31 @@ Here are some of the projects I built during my studies and personal practice.
 They showcase my skills in frontend development, responsive design, and working with APIs and full application flows.
 
 #### 🔹 Featured Projects
-- **Games App**  🔗 [View project](https://games-store-db.netlify.app/home)
+- **Games App**  🔗 [View project](https://games-store-db.netlify.app/home) 
   React + RAWG API application with search, dark mode, and genre filtering.  
   Optimized with lazy loading, Zustand state management, and API reuse.  
   **Tech:** React, Zustand, API integration
 
-- **PCWebShop**  🔗 [View project](https://next-js-full-stack-pc-webshop.vercel.app/)
+- **PCWebShop**  🔗 [View project](https://next-js-full-stack-pc-webshop.vercel.app/) 
   PC webshop website with limited features yet. (Under development)
   This project for me to learn Next.js and strengthen my typescript skills
   **Tech:** Next.js,Tailwind,MongoDB,Cloudenary
 
-- **Movie App**  🔗 [View project](https://moviesdatabase-app.netlify.app/)
+- **Movie App**  🔗 [View project](https://moviesdatabase-app.netlify.app/) 
   Responsive movie browsing app using the TMDB API.  
   **Tech:** React, Responsive Design, REST API
 
 #### 🔹 Practice & Learning Projects
 
-- **Apple-like Landing Page**    🔗 [View project](https://macbookshowcaseapp.netlify.app/)
+- **Apple-like Landing Page**    🔗 [View project](https://macbookshowcaseapp.netlify.app/) 
   Minimalistic, responsive landing page inspired by Apple.  
   **Tech:** HTML, CSS, Responsive Design  
 
-- **Brainwave Clone**  🔗 [View project](https://brainwavedemosite.netlify.app/)
+- **Brainwave Clone**  🔗 [View project](https://brainwavedemosite.netlify.app/) 
   Interactive landing page built by following a tutorial.  
   **Tech:** HTML, CSS, JavaScript  
 
-- **Cocktails Website**  🔗 [View project](https://cocktailsitedemo.netlify.app/)
+- **Cocktails Website**  🔗 [View project](https://cocktailsitedemo.netlify.app/) 
   React project using GSAP to practice smooth animations.  
   **Tech:** React, GSAP
   
@@ -81,7 +81,7 @@ They showcase my skills in frontend development, responsive design, and working 
   including Postman testing and error handling.  
   **Tech:** MongoDB, Node.js, Express, Postman
 
-- **AI-Assisted Projects** 🔗 [View project](https://nasa-ai-landing-page.vercel.app/)
+- **AI-Assisted Projects** 🔗 [View project](https://nasa-ai-landing-page.vercel.app/) 
   Nasa AI Landing Page
   Single-page website created using AI prompting (vibe coding approach).
   Focused on rapid prototyping and design iteration using AI-generated code.
