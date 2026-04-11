@@ -79,20 +79,20 @@ They showcase my skills in frontend development, responsive design, and working 
 - **MERN CRUD Apps**  
   Small applications focusing on Create / Read / Update / Delete flows,  
   including Postman testing and error handling.  
-  **Tech:** MongoDB, Node.js, Express, Postman
+  **Tech:** MongoDB, Node.js, Express, Postman  
 
 - **AI-Assisted Projects**
 
   Nasa AI Landing Page 🔗 [View project](https://nasa-ai-landing-page.vercel.app/)  
-  Single-page website created using AI prompting (vibe coding approach).
-  Focused on rapid prototyping and design iteration using AI-generated code.
-  **Tech:** HTML, CSS, (AI-assisted development)
+  Single-page website created using AI prompting (vibe coding approach).  
+  Focused on rapid prototyping and design iteration using AI-generated code.  
+  **Tech:** HTML, CSS, (AI-assisted development)  
 
   MatchaCoffee Landing Page 🔗 Work in Progress  
-  A cinematic, scroll-driven landing page for a premium matcha brand — featuring a 168-frame image sequence, synchronized typography, and dark luxury aesthetics.
-  **Tech:** Next.js 16, React 19, Tailwind CSS 4, TypeScript, and GSAP
-  **Built with:** Google-Antigravity, Google-Flow, Google-Gemini
-  Focused on rapid prototyping and premium-feel design.
+  A cinematic, scroll-driven landing page for a premium matcha brand — featuring a 168-frame image sequence, synchronized typography, and dark luxury aesthetics.  
+  **Tech:** Next.js 16, React 19, Tailwind CSS 4, TypeScript, and GSAP  
+  **Built with:** Google-Antigravity, Google-Flow, Google-Gemini  
+  Focused on rapid prototyping and premium-feel design.  
   
 
 ━━━━━━━━━━━
