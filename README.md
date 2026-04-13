@@ -88,7 +88,7 @@ They showcase my skills in frontend development, responsive design, and working 
   Focused on rapid prototyping and design iteration using AI-generated code.  
   **Tech:** HTML, CSS, (AI-assisted development)  
 
-  MatchaCoffee Landing Page 🔗 Work in Progress  
+  MatchaCoffee Landing Page 🔗 [View project](https://matchacoffeelandingpage.vercel.app/) 
   A cinematic, scroll-driven landing page for a premium matcha brand — featuring a 168-frame image sequence, synchronized typography, and dark luxury aesthetics.  
   **Tech:** Next.js 16, React 19, Tailwind CSS 4, TypeScript, and GSAP  
   **Built with:** Google-Antigravity, Google-Flow, Google-Gemini  
